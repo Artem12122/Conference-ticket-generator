@@ -59,8 +59,8 @@ body {
   padding: 4rem 0;
 
   .header__icon {
-    width: 4rem;
-    height: 4rem;
+    width: 3.5rem;
+    height: 3.5rem;
     
     img {
       display: block;
@@ -76,5 +76,5 @@ body {
 }
 
 main {
-  min-height: calc(100vh - 12rem - 15px);
+  min-height: calc(100vh - 11.5rem - 15px);
 }
